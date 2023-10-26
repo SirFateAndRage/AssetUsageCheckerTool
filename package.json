@@ -2,8 +2,8 @@
     "name": "com.sirfateandrage.assetusagecheckertool",
     "version": "1.0.0",
     "displayName": "SFR_AssetUsagePackage",
-    "description": "Herramienta diseñada para poder identificar si un archivo esta en uso, ya sea en un prefab,escena o componente",
-    "unity": "2020",
+    "description": "Herramienta diseï¿½ada para poder identificar si un archivo esta en uso, ya sea en un prefab,escena o componente",
+    "unity": "2019.1",
     "author": {
         "name": "MilaniCristian",
         "email": "milanicristian94@gmail.com",
