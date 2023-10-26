@@ -1,0 +1,12 @@
+{
+    "name": "com.sirfateandrage.assetusagecheckertool",
+    "version": "1.0.0",
+    "displayName": "SFR_AssetUsagePackage",
+    "description": "Herramienta diseñada para poder identificar si un archivo esta en uso, ya sea en un prefab,escena o componente",
+    "unity": "2020",
+    "author": {
+        "name": "MilaniCristian",
+        "email": "milanicristian94@gmail.com",
+        "url": "https://github.com/SirFateAndRage"
+    }
+}
