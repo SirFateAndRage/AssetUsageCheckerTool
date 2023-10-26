@@ -1,13 +1,11 @@
 {
-    "name": "AssetUsageCheckerTool",
+    "name": "Editor.Core",
     "rootNamespace": "",
-    "references": [
-        "GUID:343deaaf83e0cee4ca978e7df0b80d21"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [
+    "references": [],
+    "includePlatforms": [
         "Editor"
     ],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],

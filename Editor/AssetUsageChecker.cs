@@ -6,7 +6,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace AsseteUsageCheckerTool.Editor
+namespace Editor.Core
 {
     public class AssetUsageChecker
     {
